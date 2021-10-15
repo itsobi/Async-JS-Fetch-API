@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Obi Obialo",
+        "email": "obi@gmail.com"
+    },
+    {
+        "id": 2,
+        "name": "John Doe",
+        "email": "john@gmail.com"
+    },
+    {
+        "id": 3,
+        "name": "Bill Gibson",
+        "email": "bill@gmail.com"
+    }
+]
